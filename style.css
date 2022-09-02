@@ -45,6 +45,9 @@ td{
 .green{
     background: #0DFE01;
 }
+.LanSize tbody tr td:not(:first-child) {
+    width: 7.14%;
+}
 .tableWrapper{
     width: 50vw;
     height: 100vh ;
